@@ -1,0 +1,5 @@
+/* Simple fade/slide animations */
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.animate-fadeUp{animation:fadeUp .8s ease both}
+
+
